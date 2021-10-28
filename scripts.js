@@ -49,7 +49,7 @@ function checkGame(player, computer) {
 
 /**
  * Spilar einn leik.
- * @return {boolean} -1 ef tölva vann, 0 ef jafntefli, 1 ef spilari vann
+ * @return {boolean} -1 ef tölva vann, 0 ef jafntefli, 1 ef spilari vann.
  */
 function round() {
   // TODO útfæra
